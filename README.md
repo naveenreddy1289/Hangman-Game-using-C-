@@ -1,1 +1,1 @@
-# Hangman-Game-using-C-
+# Hangman-Game-using-C++
